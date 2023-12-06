@@ -1,0 +1,72 @@
+{
+  "YearsToSimulate": 2,
+  "ClientManagers": [
+    {
+      "Name": "Alice",
+      "ClientsPerYear": 1,
+      "Interests": [
+        "t2", "t3", "t5", "t4"
+      ]
+    },
+    {
+      "Name": "Bob",
+      "ClientsPerYear": 3,
+      "Interests": [
+        "t3", "t4", "t2"
+      ]
+    }
+  ],
+  "Clients": [
+    {
+      "Name": "Alison",
+      "WealthClass": 6,
+      "StartYear": 0,
+      "Interests": [
+        "t1",
+        "t4",
+        "t2",
+        "t5"
+      ]
+    },
+    {
+      "Name": "Brad",
+      "WealthClass": 5,
+      "StartYear": 0,
+      "Interests": [
+        "t2",
+        "t1"
+      ]
+    },
+    {
+      "Name": "Charlie",
+      "WealthClass": 3,
+      "StartYear": 0,
+      "Interests": [
+        "t2",
+        "t4"
+      ]
+    },
+    {
+      "Name": "Dawson",
+      "WealthClass": 7,
+      "StartYear": 0,
+      "Interests": [
+        "t4",
+        "t2",
+        "t5"
+      ]
+    },
+    {
+      "Name": "Eric",
+      "WealthClass": 10,
+      "StartYear": 0,
+      "Interests": [
+        "t1",
+        "t2",
+        "t4",
+        "t3",
+        "t5"
+      ]
+    }
+  ]
+}

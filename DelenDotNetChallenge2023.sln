@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelenDotNetChallenge2023", "DelenDotNetChallenge2023.csproj", "{6486F733-15D2-4134-B5FC-638E4AB1B9A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6486F733-15D2-4134-B5FC-638E4AB1B9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6486F733-15D2-4134-B5FC-638E4AB1B9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6486F733-15D2-4134-B5FC-638E4AB1B9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6486F733-15D2-4134-B5FC-638E4AB1B9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7891979-9044-48BB-A083-F6374FCAA759}
+	EndGlobalSection
+EndGlobal
